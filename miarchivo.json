@@ -1,0 +1,41 @@
+{
+  "squadName" : "Los Informaticos",
+  "homeTown" : "Fontibon",
+  "formed" : 2006,
+  "secretBase" : "Capellanía",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Java",
+      "age" : 10,
+      "secretIdentity" : "Tenemos a los mejor programadores en Java para ti",
+      "powers" : [
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
+      ]
+    },
+    {
+      "name" : "C++",
+      "age" : 9,
+      "secretIdentity" : "Jane Wilson",
+      "powers" : [
+        "Million tonne punch",
+        "Damage resistance",
+        "Superhuman reflexes"
+      ]
+    },
+    {
+      "name" : "Pyton",
+      "age" : 8,
+      "secretIdentity" : "Unknown",
+      "powers" : [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
+    }
+  ]
+}
