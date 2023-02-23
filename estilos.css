@@ -1,6 +1,6 @@
 html {
     font-family: 'helvetica neue', helvetica, arial, sans-serif;
-    font-weight: 900;
+   
   
   }
   
@@ -50,4 +50,5 @@ html {
     font-size: 2.5rem;
     letter-spacing: -5px;
     margin-bottom: 10px;
+    font-wight: 900;
   }
