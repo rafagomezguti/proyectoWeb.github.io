@@ -7,7 +7,8 @@ html {
   body {
     width: 800px;
     margin: 0 auto;
-    background-color: aquamarine;
+    background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(44,44,142,1) 26%, rgba(0,212,255,1) 57%);
     
   }
   
