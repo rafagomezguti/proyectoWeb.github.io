@@ -18,21 +18,21 @@
     {
       "name" : "C++",
       "age" : 9,
-      "secretIdentity" : "Jane Wilson",
+      "secretIdentity" : "C++ es otro lenguaje disponible en nuestro portafolio",
       "powers" : [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
+        "Felipe Perez",
+        "Camilo Ramos",
+        "Pablo Alvear"
       ]
     },
     {
       "name" : "Pyton",
       "age" : 8,
-      "secretIdentity" : "Unknown",
+      "secretIdentity" : "Python es un lenguaje flexible disponible por nuestros colaboradores y esta es tu oportunidad para que creemos tu idea ",
       "powers" : [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
+        "Pablo Diaz",
+        "Marcos Daza",
+        "Luis Florez",
         "Teleportation",
         "Interdimensional travel"
       ]
