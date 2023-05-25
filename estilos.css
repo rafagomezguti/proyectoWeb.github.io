@@ -1,10 +1,6 @@
-html {
-    font-family: 'helvetica neue', helvetica, arial, sans-serif;
-   
-  
-  }
-  
+ 
   body {
+    family: 'helvetica neue', helvetica, arial, sans-serif;
     width: 800px;
     margin: 0 auto;
     background: rgb(231,0,0);
